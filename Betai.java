@@ -1,5 +1,3 @@
-package com.examples.with.different.packagename.GECCO;
-
 /**
  * @author TriDv
  * @date 31/03/2023

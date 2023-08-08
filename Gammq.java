@@ -1,5 +1,3 @@
-package com.examples.with.different.packagename;
-
 /**
  * @author tridv on 11/2/2023
  * @project evosuite

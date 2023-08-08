@@ -1,5 +1,3 @@
-package org;
-
 public class NextDate {
     private int m;
     private int d;

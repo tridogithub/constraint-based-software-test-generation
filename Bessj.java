@@ -1,7 +1,3 @@
-package com.examples.with.different.packagename;
-
-import org.mockito.internal.stubbing.answers.Returns;
-
 /**
  * @author tridv on 11/2/2023
  * @project evosuite

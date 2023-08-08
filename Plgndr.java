@@ -1,5 +1,3 @@
-package com.examples.with.different.packagename.GECCO;
-
 /**
  * @author tridv on 1/7/2023
  * @project evosuite

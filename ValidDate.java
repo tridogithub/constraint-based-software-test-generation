@@ -1,5 +1,3 @@
-package org;
-
 /**
  * @author tridv on 17/1/2023
  * @project evosuite
